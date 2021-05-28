@@ -10,6 +10,7 @@ namespace Trabalho_Final_POO
     {
         // Variável que validará o login
         // Teste Teste Teste Teste Teste Teste Teste
+        //Teste2
         public bool log = false;
         public FmrLogin()
         {
